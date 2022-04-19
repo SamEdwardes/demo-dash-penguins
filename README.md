@@ -1,5 +1,7 @@
 # demo-dash-penguins
 
+![](./imgs/screenshot.png)
+
 # Usage
 
 Create a new virtual environment:
@@ -20,4 +22,14 @@ Run the app:
 
 ```bash
 python app/app.py
+```
+
+## Deployment
+
+```bash
+rsconnect write-manifest dash \
+  --overwrite \
+  --python .venv/bin/python \
+  --entrypoint app \
+  app
 ```
