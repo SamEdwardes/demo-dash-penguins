@@ -2,6 +2,8 @@
 
 ![](./imgs/screenshot.png)
 
+<https://colorado.rstudio.com/rsc/demo-dash-penguins/>
+
 # Usage
 
 Create a new virtual environment:
