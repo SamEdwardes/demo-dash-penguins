@@ -6,7 +6,7 @@
   },
   "locale": "en_US.UTF-8",
   "python": {
-    "version": "3.10.2",
+    "version": "3.9.6",
     "package_manager": {
       "name": "pip",
       "version": "22.0.4",
@@ -15,10 +15,10 @@
   },
   "files": {
     "requirements.txt": {
-      "checksum": "bac7ea5f0671bf0fada4d216166c5c10"
+      "checksum": "7982a76f3bfc6816983555349bfc0e43"
     },
     "app.py": {
-      "checksum": "69c619062bda012fb58adf5259540473"
+      "checksum": "7ab1163544a282ca937f1798ac06a0ef"
     }
   }
 }
